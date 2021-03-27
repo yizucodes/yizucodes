@@ -1,7 +1,6 @@
 ### Hi there 👋
-## My name is Yi and my passion is to build social impact technologies and consumer products that have an influence on people's lifestyles. 
-## Check out my website! 
-👉 yizucodes.com 👈
+My name is Yi and my passion is to build social impact technologies and consumer products that have an influence on people's lifestyles. Check out my website! 
+👉 [yizucodes.com](https://yizucodes.com/) 👈
 
 <!--
 **yizucodes/yizucodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
