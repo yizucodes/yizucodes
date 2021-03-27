@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋
+
 ## My name is Yi and my passion is to build social impact technologies and consumer products that have an influence on people's lifestyles. Check out my website! 
 👉 [yizucodes.com](https://yizucodes.com/) 👈
 
